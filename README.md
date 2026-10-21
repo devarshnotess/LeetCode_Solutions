@@ -27,4 +27,8 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 <!---LeetCode Topics End-->

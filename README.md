@@ -14,6 +14,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |

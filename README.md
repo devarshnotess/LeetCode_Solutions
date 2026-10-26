@@ -18,6 +18,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1254-number-of-closed-islands](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1470-shuffle-the-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -49,16 +50,20 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->

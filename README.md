@@ -25,6 +25,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0263-ugly-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |

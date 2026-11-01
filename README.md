@@ -30,6 +30,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [2409-count-days-spent-together](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2409-count-days-spent-together](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |

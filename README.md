@@ -14,6 +14,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1470-shuffle-the-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -28,6 +29,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0263-ugly-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |

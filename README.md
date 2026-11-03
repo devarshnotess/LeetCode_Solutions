@@ -21,6 +21,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1929-concatenation-of-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -31,6 +32,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [0263-ugly-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [2409-count-days-spent-together](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |

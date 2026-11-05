@@ -19,6 +19,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [0485-max-consecutive-ones](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1470-shuffle-the-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -45,6 +46,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
@@ -129,6 +131,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -142,4 +145,8 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->

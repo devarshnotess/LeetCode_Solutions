@@ -47,6 +47,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [2409-count-days-spent-together](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -178,4 +179,8 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1882-process-tasks-using-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1929-concatenation-of-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |

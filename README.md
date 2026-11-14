@@ -31,6 +31,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1929-concatenation-of-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -169,6 +170,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2747-count-zero-request-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Two Pointers
@@ -216,4 +218,8 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->

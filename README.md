@@ -30,6 +30,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1929-concatenation-of-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -62,6 +63,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [0645-set-mismatch](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
@@ -206,6 +208,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |

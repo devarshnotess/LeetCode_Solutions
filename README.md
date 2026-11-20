@@ -32,6 +32,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1929-concatenation-of-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -65,6 +66,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |

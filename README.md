@@ -76,6 +76,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |

@@ -22,6 +22,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [0645-set-mismatch](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -52,6 +53,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [0263-ugly-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2409-count-days-spent-together](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -240,6 +242,15 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->

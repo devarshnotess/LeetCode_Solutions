@@ -47,6 +47,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [2747-count-zero-request-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +207,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +264,16 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->

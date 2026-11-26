@@ -58,6 +58,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1352-product-of-the-last-k-numbers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2409-count-days-spent-together](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -103,6 +104,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1441-build-an-array-with-stack-operations](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1929-concatenation-of-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |

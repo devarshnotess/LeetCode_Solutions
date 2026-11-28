@@ -21,6 +21,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [0485-max-consecutive-ones](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0805-split-array-with-same-average](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0805-split-array-with-same-average/) | Hard |
+| [0956-tallest-billboard](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0956-tallest-billboard/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -145,6 +146,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0805-split-array-with-same-average](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0805-split-array-with-same-average/) | Hard |
+| [0956-tallest-billboard](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0956-tallest-billboard/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
@@ -290,8 +292,17 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0805-split-array-with-same-average](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0805-split-array-with-same-average/) | Hard |
+| [0956-tallest-billboard](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0956-tallest-billboard/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0805-split-array-with-same-average](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0805-split-array-with-same-average/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0956-tallest-billboard](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0956-tallest-billboard/) | Hard |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0956-tallest-billboard](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0956-tallest-billboard/) | Hard |
 <!---LeetCode Topics End-->

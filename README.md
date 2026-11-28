@@ -34,6 +34,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1755-closest-subsequence-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1929-concatenation-of-array](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
@@ -77,6 +78,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1755-closest-subsequence-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
@@ -103,6 +105,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [0645-set-mismatch](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0805-split-array-with-same-average](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0805-split-array-with-same-average/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -152,6 +155,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [0956-tallest-billboard](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0956-tallest-billboard/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -218,11 +222,13 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1755-closest-subsequence-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3934-smallest-unique-subarray](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -239,6 +245,7 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,11 +306,13 @@ My Solutions to LeetCode problems in Python and C++, covering data Structures, a
 | [0805-split-array-with-same-average](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0956-tallest-billboard](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0956-tallest-billboard/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0805-split-array-with-same-average](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/0805-split-array-with-same-average/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/devarshnotess/LeetCode_Solutions/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
